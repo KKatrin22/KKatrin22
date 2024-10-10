@@ -1,4 +1,4 @@
-<img src="https://github.com/KKatrin22/KKatrin22/blob/main/assets/baner.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/KKatrin22/KKatrin22/refs/heads/main/assets/baner.png"/>
 
 # Привет! Я Краснова Екатерина 👋
 
