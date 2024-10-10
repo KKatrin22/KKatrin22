@@ -10,7 +10,7 @@
 <div>
    <img src="https://seeklogo.com/images/J/jira-logo-AC0E7573B0-seeklogo.com.png" title="Jira" alt="Jira" width="60" height="32"/>&nbsp     
    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp     
-   <img src="https://seeklogo.com/images/C/confluence-logo-45F8F83769-seeklogo.com.png" title="Confluence" ait="Confluence" width="135" height="32"/>&nbsp         
+   <img src="https://seeklogo.com/images/C/confluence-logo-45F8F83769-seeklogo.com.png" title="Confluence" ait="Confluence" width="100" height="32"/>&nbsp         
    <img src="https://seeklogo.com/images/F/figma-logo-6F8EFD765C-seeklogo.com.png" title="Figma" ait="Figma" width="80" height="32"/> 
 <div>
 
