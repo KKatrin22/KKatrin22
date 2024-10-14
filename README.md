@@ -17,7 +17,7 @@
 ### 🛠 Тестирование веб-приложений:
 <div>
    <img src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" title="Postman" alt="postman" width="60" height="55"/>&nbsp  
-   <img src="https://seeklogo.com/images/G/google-chrome-dev-logo-375457E020-seeklogo.com.png"  title="devtools" alt="devtools" width="50" height="57"/>&nbsp  
+   <img src="https://seeklogo.com/images/G/google-chrome-dev-logo-375457E020-seeklogo.com.png"  title="devtools" alt="devtools" width="50" height="55"/>&nbsp  
    <img src="https://testengineer.ru/wp-content/uploads/2023/05/SoapUI.svg" title="SoapUI" alt="SoapUI" width="70" height="55"/>&nbsp  
    <img src="https://seeklogo.com/images/S/swagger-logo-8141BB3ED6-seeklogo.com.png" title="Swagger" alt="Swagger" width="125" height="52"/>&nbsp  
  <div> 
@@ -38,7 +38,7 @@
 <div>
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" title="Cit" alt="Git" width="60" height="60"/>&nbsp   
     <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" title="vscode" alt="vscode" width="60" height="60"/>&nbsp   
-    <img src="https://seeklogo.com/images/B/bash-shell-logo-0BF7426ED7-seeklogo.com.png" title="Git bash" alt="Git bash" width="80" height="60"/>&nbsp    
+    <img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" title="Git bash" alt="Git bash" width="60" height="60"/>&nbsp    
 <dev>
 
  ### 💬 Контакты
