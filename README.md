@@ -35,11 +35,18 @@
 <dev>
 
 ### ✏️ Работа с кодом:
-<div>
+<dev>
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" title="Cit" alt="Git" width="60" height="60"/>&nbsp   
     <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" title="vscode" alt="vscode" width="60" height="60"/>&nbsp   
     <img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" title="Git bash" alt="Git bash" width="60" height="60"/>&nbsp    
 <dev>
+
+### Тестовые артефакты:
+* Тестирование REST и SOAP API с помощью Postman
+* [SQL-Queries](https://github.com/KKatrin22/SQL-Queries)
+
+
+
 
  ### 💬 Контакты
 <dev>   
