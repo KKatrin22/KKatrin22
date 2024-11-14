@@ -42,7 +42,7 @@
 <dev>
 
 ### Тестовые артефакты:
-* Тестирование REST и SOAP API с помощью Postman
+* [Тестирование REST и SOAP API с помощью Postman](https://github.com/KKatrin22/api_testing)
 * [SQL-Queries](https://github.com/KKatrin22/SQL-Queries)
 
 
