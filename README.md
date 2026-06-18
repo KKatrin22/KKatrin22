@@ -20,4 +20,4 @@
 ### 💬 Контакты
 
 * Telegram: https://t.me/Krasnova_Kati
-* LinkedIn: https://linkedin.com/in/ekaterina-krasnova
+* LinkedIn: www.linkedin.com/in/ekaterina-krasnova-data-analyst
