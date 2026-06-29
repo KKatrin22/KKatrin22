@@ -15,6 +15,7 @@
 
 ## 🛠 Практика и проекты
 
+- [Анализ пролонгаций клиентских договоров](https://github.com/KKatrin22/renewal-analytics)
 - [SQL-Queries](https://github.com/KKatrin22/SQL-Queries)
 
 ### 💬 Контакты
