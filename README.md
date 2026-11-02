@@ -17,6 +17,8 @@
 
 - [Анализ пролонгаций клиентских договоров](https://github.com/KKatrin22/renewal-analytics)
 - [SQL-Queries](https://github.com/KKatrin22/SQL-Queries)
+- [Taxi-Analytics-Project](https://github.com/KKatrin22/Taxi-Analytics-Project)
+- [tender-commercial-analysis](https://github.com/KKatrin22/tender-commercial-analysis)
 
 ### 💬 Контакты
 
